@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77c2ee31-1d0f-4f3b-b14e-6783da1f77aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2AElXfQzPGNinqFOFNQePk4wvFC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="/usr/local/bin/python3.8">
+        <option name="mySdkHome" value="/usr/local/bin/python3.8" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ex1">
+    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Irdeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Irdeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Irdeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Irdeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex1" />
+        <item itemvalue="Python.ex2" />
+        <item itemvalue="Python.hi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77c2ee31-1d0f-4f3b-b14e-6783da1f77aa" name="Default Changelist" comment="" />
+      <created>1654582667697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654582667697</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1654596142507">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1654596142507" />
+    <state x="483" y="121" key="#xdebugger.evaluate" timestamp="1654604239797">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="121" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1654604239797" />
+    <state x="483" y="131" key="#xdebugger.evaluate/0.25.1440.790@0.25.1440.790" timestamp="1654591187469" />
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom" timestamp="1654606538179">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1654606538179" />
+    <state width="1419" height="167" key="GridCell.Tab.0.bottom/0.25.1440.790@0.25.1440.790" timestamp="1654591416777" />
+    <state width="1419" height="206" key="GridCell.Tab.0.center" timestamp="1654606538177">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1654606538177" />
+    <state width="1419" height="167" key="GridCell.Tab.0.center/0.25.1440.790@0.25.1440.790" timestamp="1654591416776" />
+    <state width="1419" height="206" key="GridCell.Tab.0.left" timestamp="1654606538176">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1654606538176" />
+    <state width="1419" height="167" key="GridCell.Tab.0.left/0.25.1440.790@0.25.1440.790" timestamp="1654591416775" />
+    <state width="1419" height="206" key="GridCell.Tab.0.right" timestamp="1654606538178">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1654606538178" />
+    <state width="1419" height="167" key="GridCell.Tab.0.right/0.25.1440.790@0.25.1440.790" timestamp="1654591416776" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1654606348503">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1654606348503" />
+    <state width="1419" height="248" key="GridCell.Tab.1.bottom/0.25.1440.790@0.25.1440.790" timestamp="1654591364592" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1654606348502">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1654606348502" />
+    <state width="1419" height="248" key="GridCell.Tab.1.center/0.25.1440.790@0.25.1440.790" timestamp="1654591364591" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1654606348501">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1654606348501" />
+    <state width="1419" height="248" key="GridCell.Tab.1.left/0.25.1440.790@0.25.1440.790" timestamp="1654591364591" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1654606348502">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1654606348502" />
+    <state width="1419" height="248" key="GridCell.Tab.1.right/0.25.1440.790@0.25.1440.790" timestamp="1654591364592" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
